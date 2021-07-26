@@ -1,0 +1,2 @@
+# ICT
+Independent community token
